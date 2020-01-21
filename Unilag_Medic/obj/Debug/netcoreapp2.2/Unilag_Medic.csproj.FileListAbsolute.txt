@@ -1,0 +1,14 @@
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\bin\Debug\netcoreapp2.2\Unilag_Medic.deps.json
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\bin\Debug\netcoreapp2.2\Unilag_Medic.runtimeconfig.json
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\bin\Debug\netcoreapp2.2\Unilag_Medic.runtimeconfig.dev.json
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\bin\Debug\netcoreapp2.2\Unilag_Medic.dll
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\bin\Debug\netcoreapp2.2\Unilag_Medic.pdb
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\obj\Debug\netcoreapp2.2\Unilag_Medic.csprojAssemblyReference.cache
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\obj\Debug\netcoreapp2.2\Unilag_Medic.csproj.CoreCompileInputs.cache
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\obj\Debug\netcoreapp2.2\Unilag_Medic.RazorAssemblyInfo.cache
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\obj\Debug\netcoreapp2.2\Unilag_Medic.RazorAssemblyInfo.cs
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\obj\Debug\netcoreapp2.2\Unilag_Medic.AssemblyInfoInputs.cache
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\obj\Debug\netcoreapp2.2\Unilag_Medic.AssemblyInfo.cs
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\obj\Debug\netcoreapp2.2\Unilag_Medic.RazorTargetAssemblyInfo.cache
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\obj\Debug\netcoreapp2.2\Unilag_Medic.dll
+C:\MYPROJECTS\.NET Core Tut\UniMedic_Solution\Unilag_Medic\obj\Debug\netcoreapp2.2\Unilag_Medic.pdb
